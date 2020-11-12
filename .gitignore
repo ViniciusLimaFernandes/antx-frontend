@@ -1,0 +1,13 @@
+# package directories
+node_modules
+plato_report
+jspm_packages
+build
+
+# Serverless directories
+.serverless
+payment-bot-orchestrator_dev_warmup
+package-lock.json
+payment-bot-orchestrator_fut-demo_warmup
+.bot-plugin
+*_warmup
