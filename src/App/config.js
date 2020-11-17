@@ -10,7 +10,7 @@ export const trashWidth = (40 * trashScale)
 export const trashHeight = (40 * trashScale)
 
 export const senacLat = -23.67
-export const senacLong = -46.699466
+export const senacLong = -46.6994666
 
 export default {
     apiUrl,
